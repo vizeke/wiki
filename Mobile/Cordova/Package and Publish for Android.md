@@ -7,7 +7,7 @@ keytool -genkey -keyalg RSA -alias alias_name -keystore mykeystorename.keystore 
 
 * Configurar chave no app cordova
 
-Local no aplicativo: /res/native/android/ant.properties
+Local do arquivo no projeto: /res/native/android/ant.properties
 
 	key.store=mykeystorename.keystore
 	key.alias=alias_name 
