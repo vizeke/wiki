@@ -10,7 +10,7 @@ para o comando:
 
 utilizar:
 
-	ALL_PROXY=http://<user>:<pass>@proxy.prodest.es.gov.br.local:8080
+	ALL_PROXY=http://<user>:<pass>@proxy.prodest.es.gov.br.local:8080 brew upgrade
 
 
 ###Referencias
